@@ -6,3 +6,19 @@ __pycache__/
 .DS_Store
 /dist/
 /static/
+<<<<<<< HEAD
+uploads/
+Model/VR/
+Model/01-21-25.mp4/
+Frontend/assets/
+Frontend/.next/
+Frontend/.nuxt/
+Frontend/node_modules/
+Frontend/.nuxtignore
+Frontend/package-lock.json/
+Model/01-21-25.mp4/
+Model/test_VR.mp4/
+Model/VR/test_VR.mp4/
+Model/VR/test_VR.mp4/
+=======
+>>>>>>> parent of f368566 (Updated)
